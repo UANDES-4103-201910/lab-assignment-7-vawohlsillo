@@ -1,3 +1,37 @@
 /* Define your CSS styles here */
 /* Remember to validate your CSS at https://jigsaw.w3.org/css-validator/ */
 
+.row {
+	background-color: #090C3C;
+	display: flex;
+  	flex-wrap: nowrap;
+  	justify-content: center;
+  	color: #fff;
+  	height: 50px;
+}
+
+.key {
+	color: #fff;
+	margin: 6px;
+	background-color: DarkSlateGray;
+	width: 40px;
+	border-radius: 8px;
+	padding-top: 10px;
+	padding-left: 35px;
+}
+.key:hover{
+	background: peru;
+}
+.key:active{
+	background-color: Lime;
+}
+
+.tab {
+	color: #fff;
+	background-color: 
+}
+
+.delete {
+	color: #fff;
+}
+
